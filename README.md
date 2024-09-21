@@ -5,10 +5,6 @@ EcoStyle is a minimal HTML and CSS project that showcases a fashion product page
     About the Project
     Features
     Technologies Used
-    Installation
-    Usage
-    Contributing
-    License
 
 About the Project
 
